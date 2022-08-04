@@ -4,10 +4,6 @@
 
 https://carstensmartin.github.io/Level-4-Task-19--Deployed/
 
-## NOTE
-
-For the purpose of showing my project I uploaded 1 file location up. In practice I will CD into the file and commit from there, which will exclude the git ignore files
-
 ## Task 1
 
 Follow these steps:
